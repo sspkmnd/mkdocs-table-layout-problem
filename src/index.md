@@ -2,11 +2,15 @@
 
 <button id="change-table-layout">current style -- >> CLICK ME <<</button>
 
+<div markdown="1" class="explicit-col-width">
+
 | Parameter                                          | Type   | Default                        | Description                                                                                                                                                                                                                                                                                                                                                                             |
 |:---------------------------------------------------|:-------|:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `abc`                                              | int    | `0`                            | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, enim?                                                                                                                                                                                                                                                                                                                    |
 | `longer_param_name`                                | regex  | `s/cat/dog/i`                  | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis nemo vitae cumque! Sit quibusdam obcaecati aut, sed odio assumenda soluta eum! Nesciunt repellendus eaque delectus, nemo, aperiam laudantium ipsam rem.                                                                                                                                                               |
 | `some_another_parameter_name_that_is_even_longer`  | path   | `long/path_to_some_foo_bar_baz_foo_bar_baz_file.txt`  | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur exercitationem quas ducimus quos quaerat, adipisci illo nobis odio aut rem amet quibusdam debitis, error repudiandae modi consequatur ratione ad optio totam minus sequi ut maxime. Saepe aliquam tempore quibusdam, eum voluptas suscipit. Porro exercitationem quae harum vero, perspiciatis, consectetur ratione.  |
+
+</div>
 
 ## Welcome to MkDocs
 
